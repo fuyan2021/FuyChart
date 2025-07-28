@@ -1,0 +1,11 @@
+# Android
+build/
+.gradle/
+local.properties
+*.apk
+*.aab
+
+# IDE
+.idea/
+*.iml
+.navigation/
